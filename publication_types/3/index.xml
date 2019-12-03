@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Verena Fetscher</title>
+    <link>https://verenafetscher.github.io/publication_types/3/</link>
+      <atom:link href="https://verenafetscher.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Verena Fetscher© 2019</copyright><lastBuildDate>Tue, 01 Oct 2019 13:35:25 +0100</lastBuildDate>
+    <image>
+      <url>https://verenafetscher.github.io/img/icon-192.png</url>
+      <title>3</title>
+      <link>https://verenafetscher.github.io/publication_types/3/</link>
+    </image>
+    
+    <item>
+      <title>Fairness, Risk and the Welfare State</title>
+      <link>https://verenafetscher.github.io/publication/insurancesystems/</link>
+      <pubDate>Tue, 01 Oct 2019 13:35:25 +0100</pubDate>
+      <guid>https://verenafetscher.github.io/publication/insurancesystems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Local Economy, Immigration and Political Preferences</title>
+      <link>https://verenafetscher.github.io/publication/refugee/</link>
+      <pubDate>Tue, 01 Oct 2019 13:35:25 +0100</pubDate>
+      <guid>https://verenafetscher.github.io/publication/refugee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beliefs in Social Mobility and Fairness Preferences: An Experimental Approach</title>
+      <link>https://verenafetscher.github.io/publication/socialmobility/</link>
+      <pubDate>Sun, 01 Sep 2019 13:35:25 +0100</pubDate>
+      <guid>https://verenafetscher.github.io/publication/socialmobility/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

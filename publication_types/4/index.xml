@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4 | Verena Fetscher</title>
+    <link>https://verenafetscher.github.io/publication_types/4/</link>
+      <atom:link href="https://verenafetscher.github.io/publication_types/4/index.xml" rel="self" type="application/rss+xml" />
+    <description>4</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Verena Fetscher© 2019</copyright><lastBuildDate>Fri, 01 Nov 2019 13:35:25 +0100</lastBuildDate>
+    <image>
+      <url>https://verenafetscher.github.io/img/icon-192.png</url>
+      <title>4</title>
+      <link>https://verenafetscher.github.io/publication_types/4/</link>
+    </image>
+    
+    <item>
+      <title>Equalizing Incomes over Time: Why Structural Differences in Social Insurance Matter for Redistribution Preferences</title>
+      <link>https://verenafetscher.github.io/publication/futureequalization/</link>
+      <pubDate>Fri, 01 Nov 2019 13:35:25 +0100</pubDate>
+      <guid>https://verenafetscher.github.io/publication/futureequalization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why Does it Matter Who They Are? Fairness, Ingroup Favoritism, and Preferences for Redistribution</title>
+      <link>https://verenafetscher.github.io/publication/socialidentity/</link>
+      <pubDate>Sat, 20 Jul 2019 16:10:15 +0100</pubDate>
+      <guid>https://verenafetscher.github.io/publication/socialidentity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Labor Market Risks, Other-Regarding Concerns, and the Institutional Arrangement of the Welfare State</title>
+      <link>https://verenafetscher.github.io/publication/insurancerisk/</link>
+      <pubDate>Fri, 12 Jul 2019 17:03:54 +0100</pubDate>
+      <guid>https://verenafetscher.github.io/publication/insurancerisk/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

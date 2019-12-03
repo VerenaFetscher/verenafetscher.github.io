@@ -2,8 +2,8 @@
   "name": "Verena Fetscher",
   "short_name": "Verena Fetscher",
   "lang": "en-us",
-  "theme_color": "#2962ff",
-  "background_color": "#2962ff",
+  "theme_color": "#00cca3",
+  "background_color": "#00cca3",
   "icons": [{
     "src": "../img/icon-192.png",
     "sizes": "192x192",

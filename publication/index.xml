@@ -1,16 +1,96 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Verena Fetscher</title>
-    <link>https://VerenaFetscher.github.io/publication/</link>
-      <atom:link href="https://VerenaFetscher.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Verena Fetscher© 2019</copyright>
+    <title>Publication | Verena Fetscher</title>
+    <link>https://verenafetscher.github.io/publication/</link>
+      <atom:link href="https://verenafetscher.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publication</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Verena Fetscher© 2019</copyright><lastBuildDate>Fri, 01 Nov 2019 13:35:25 +0100</lastBuildDate>
     <image>
-      <url>https://VerenaFetscher.github.io/img/icon-192.png</url>
-      <title>Publications</title>
-      <link>https://VerenaFetscher.github.io/publication/</link>
+      <url>https://verenafetscher.github.io/img/icon-192.png</url>
+      <title>Publication</title>
+      <link>https://verenafetscher.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Equalizing Incomes over Time: Why Structural Differences in Social Insurance Matter for Redistribution Preferences</title>
+      <link>https://verenafetscher.github.io/publication/futureequalization/</link>
+      <pubDate>Fri, 01 Nov 2019 13:35:25 +0100</pubDate>
+      <guid>https://verenafetscher.github.io/publication/futureequalization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fairness, Risk and the Welfare State</title>
+      <link>https://verenafetscher.github.io/publication/insurancesystems/</link>
+      <pubDate>Tue, 01 Oct 2019 13:35:25 +0100</pubDate>
+      <guid>https://verenafetscher.github.io/publication/insurancesystems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Political Representation and Economic Inequality (Fall 2019)</title>
+      <link>https://verenafetscher.github.io/publication/prei/</link>
+      <pubDate>Tue, 01 Oct 2019 13:35:25 +0100</pubDate>
+      <guid>https://verenafetscher.github.io/publication/prei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Local Economy, Immigration and Political Preferences</title>
+      <link>https://verenafetscher.github.io/publication/refugee/</link>
+      <pubDate>Tue, 01 Oct 2019 13:35:25 +0100</pubDate>
+      <guid>https://verenafetscher.github.io/publication/refugee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topics in Comparative Political Economy (Fall 2019)</title>
+      <link>https://verenafetscher.github.io/publication/cpe/</link>
+      <pubDate>Tue, 01 Oct 2019 13:35:25 +0100</pubDate>
+      <guid>https://verenafetscher.github.io/publication/cpe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beliefs in Social Mobility and Fairness Preferences: An Experimental Approach</title>
+      <link>https://verenafetscher.github.io/publication/socialmobility/</link>
+      <pubDate>Sun, 01 Sep 2019 13:35:25 +0100</pubDate>
+      <guid>https://verenafetscher.github.io/publication/socialmobility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why Does it Matter Who They Are? Fairness, Ingroup Favoritism, and Preferences for Redistribution</title>
+      <link>https://verenafetscher.github.io/publication/socialidentity/</link>
+      <pubDate>Sat, 20 Jul 2019 16:10:15 +0100</pubDate>
+      <guid>https://verenafetscher.github.io/publication/socialidentity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Labor Market Risks, Other-Regarding Concerns, and the Institutional Arrangement of the Welfare State</title>
+      <link>https://verenafetscher.github.io/publication/insurancerisk/</link>
+      <pubDate>Fri, 12 Jul 2019 17:03:54 +0100</pubDate>
+      <guid>https://verenafetscher.github.io/publication/insurancerisk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>International Development and Democracy (Spring 2018)</title>
+      <link>https://verenafetscher.github.io/publication/idd/</link>
+      <pubDate>Thu, 01 Mar 2018 13:35:25 +0100</pubDate>
+      <guid>https://verenafetscher.github.io/publication/idd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Politics of Inequality and Redistribution (Spring 2016)</title>
+      <link>https://verenafetscher.github.io/publication/pir/</link>
+      <pubDate>Mon, 01 Feb 2016 13:35:25 +0100</pubDate>
+      <guid>https://verenafetscher.github.io/publication/pir/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

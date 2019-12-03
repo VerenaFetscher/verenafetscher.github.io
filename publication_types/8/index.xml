@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>8 | Verena Fetscher</title>
+    <link>https://verenafetscher.github.io/publication_types/8/</link>
+      <atom:link href="https://verenafetscher.github.io/publication_types/8/index.xml" rel="self" type="application/rss+xml" />
+    <description>8</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Verena Fetscher© 2019</copyright><lastBuildDate>Tue, 01 Oct 2019 13:35:25 +0100</lastBuildDate>
+    <image>
+      <url>https://verenafetscher.github.io/img/icon-192.png</url>
+      <title>8</title>
+      <link>https://verenafetscher.github.io/publication_types/8/</link>
+    </image>
+    
+    <item>
+      <title>Political Representation and Economic Inequality (Fall 2019)</title>
+      <link>https://verenafetscher.github.io/publication/prei/</link>
+      <pubDate>Tue, 01 Oct 2019 13:35:25 +0100</pubDate>
+      <guid>https://verenafetscher.github.io/publication/prei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topics in Comparative Political Economy (Fall 2019)</title>
+      <link>https://verenafetscher.github.io/publication/cpe/</link>
+      <pubDate>Tue, 01 Oct 2019 13:35:25 +0100</pubDate>
+      <guid>https://verenafetscher.github.io/publication/cpe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>International Development and Democracy (Spring 2018)</title>
+      <link>https://verenafetscher.github.io/publication/idd/</link>
+      <pubDate>Thu, 01 Mar 2018 13:35:25 +0100</pubDate>
+      <guid>https://verenafetscher.github.io/publication/idd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Politics of Inequality and Redistribution (Spring 2016)</title>
+      <link>https://verenafetscher.github.io/publication/pir/</link>
+      <pubDate>Mon, 01 Feb 2016 13:35:25 +0100</pubDate>
+      <guid>https://verenafetscher.github.io/publication/pir/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
