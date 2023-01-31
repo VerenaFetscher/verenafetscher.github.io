@@ -5,7 +5,7 @@
     <link>https://verenafetscher.github.io/publication_types/8/</link>
       <atom:link href="https://verenafetscher.github.io/publication_types/8/index.xml" rel="self" type="application/rss+xml" />
     <description>8</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Verena Fetscher© 2023</copyright><lastBuildDate>Tue, 01 Oct 2019 13:35:25 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Verena Fetscher© 2023</copyright><lastBuildDate>Sun, 01 Jan 2023 13:35:25 +0100</lastBuildDate>
     <image>
       <url>https://verenafetscher.github.io/img/icon-192.png</url>
       <title>8</title>
@@ -13,7 +13,31 @@
     </image>
     
     <item>
-      <title>Political Representation and Economic Inequality (Fall 2019)</title>
+      <title>Research Seminar (Fall 2021, Spring 2021, 2022)</title>
+      <link>https://verenafetscher.github.io/publication/research_ma/</link>
+      <pubDate>Sun, 01 Jan 2023 13:35:25 +0100</pubDate>
+      <guid>https://verenafetscher.github.io/publication/research_ma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interdisciplinary Seminar in Politics and Economics (Spring 2021, 2022)</title>
+      <link>https://verenafetscher.github.io/publication/irs/</link>
+      <pubDate>Tue, 01 Oct 2019 13:35:25 +0100</pubDate>
+      <guid>https://verenafetscher.github.io/publication/irs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to Comparative Politics (Fall 2021)</title>
+      <link>https://verenafetscher.github.io/publication/introcp/</link>
+      <pubDate>Tue, 01 Oct 2019 13:35:25 +0100</pubDate>
+      <guid>https://verenafetscher.github.io/publication/introcp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Political Representation and Economic Inequality (Fall 2019, 2020, 2021)</title>
       <link>https://verenafetscher.github.io/publication/prei/</link>
       <pubDate>Tue, 01 Oct 2019 13:35:25 +0100</pubDate>
       <guid>https://verenafetscher.github.io/publication/prei/</guid>
@@ -21,10 +45,26 @@
     </item>
     
     <item>
-      <title>Topics in Comparative Political Economy (Fall 2019)</title>
-      <link>https://verenafetscher.github.io/publication/cpe/</link>
+      <title>Topics in Comparative Political Economy: Preferences and Institutions I (Fall 2019, 2020, 2021)</title>
+      <link>https://verenafetscher.github.io/publication/cpei/</link>
       <pubDate>Tue, 01 Oct 2019 13:35:25 +0100</pubDate>
-      <guid>https://verenafetscher.github.io/publication/cpe/</guid>
+      <guid>https://verenafetscher.github.io/publication/cpei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topics in Comparative Political Economy: Preferences and Institutions II (Spring 2020, 2021, 2022)</title>
+      <link>https://verenafetscher.github.io/publication/cpeii/</link>
+      <pubDate>Tue, 01 Oct 2019 13:35:25 +0100</pubDate>
+      <guid>https://verenafetscher.github.io/publication/cpeii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topics in Comparative Politics (Spring 2020, 2021, 2022)</title>
+      <link>https://verenafetscher.github.io/publication/cptopics/</link>
+      <pubDate>Tue, 01 Oct 2019 13:35:25 +0100</pubDate>
+      <guid>https://verenafetscher.github.io/publication/cptopics/</guid>
       <description></description>
     </item>
     
